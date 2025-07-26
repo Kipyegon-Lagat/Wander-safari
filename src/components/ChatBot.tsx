@@ -51,7 +51,7 @@ const ChatBot = () => {
     // Simulate bot response
     setTimeout(() => {
       const lowerInput = inputValue.toLowerCase();
-      let botResponse = "That's a great question! I'd recommend speaking with our safari experts for detailed information. You can contact us through our booking form or call +254 700 123 456.";
+      let botResponse = "That's a great question! I'd recommend speaking with our experts for detailed information. You can contact us through our booking form or call +254 700 123 456.";
 
       // Check for keyword matches
       Object.keys(botResponses).forEach(key => {
