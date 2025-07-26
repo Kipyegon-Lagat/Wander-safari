@@ -15,7 +15,7 @@ const ChatBot = () => {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: 1,
-      text: "Hello! I'm Safari, your virtual travel assistant. How can I help you plan your perfect Kenya safari adventure?",
+      text: "Hello! I'm Safari, your virtual travel assistant. How can I help you plan your perfect Kenyan safari adventure?",
       isBot: true,
       timestamp: new Date(),
     },
