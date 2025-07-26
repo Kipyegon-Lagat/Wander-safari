@@ -30,7 +30,7 @@ const ChatBot = () => {
   ];
 
   const botResponses: Record<string, string> = {
-    "popular safari destinations": "Kenya's top safari destinations include:\n\n🦁 Maasai Mara - Famous for the Great Migration\n🐘 Amboseli - Best views of Mount Kilimanjaro\n🦒 Samburu - Unique wildlife species\n🌸 Lake Nakuru - Flamingo paradise\n\nWould you like detailed information about any of these?",
+    "popular safari destinations": "Kenya's top safari destinations include:\n\n🦁 Maasai Mara - Famous for the Great Wildbeast Migration\n🐘 Amboseli - Best views of Mount Kilimanjaro\n🦒 Samburu - Unique wildlife species\n🌸 Lake Nakuru - Flamingo paradise\n\nWould you like detailed information about any of these?",
     "best time to visit": "The best time for a Kenya safari:\n\n🌞 Dry Season (June-October): Best game viewing\n🌧️ Long Rains (March-May): Fewer crowds, lush landscapes\n🦓 Great Migration: July-October in Maasai Mara\n\nWhen are you planning to visit?",
     "safari package prices": "Our safari packages start from:\n\n💰 Budget Safari: $150/day\n⭐ Mid-range Safari: $300/day\n🏆 Luxury Safari: $600/day\n\nPrices include accommodation, meals, and game drives. Would you like a custom quote?",
     "what to pack": "Essential safari packing list:\n\n👕 Neutral colored clothing\n🧴 Sunscreen & insect repellent\n📸 Camera with extra batteries\n👟 Comfortable walking shoes\n🧢 Hat and sunglasses\n💊 Personal medications\n\nNeed a complete packing checklist?",
